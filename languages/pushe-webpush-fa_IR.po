@@ -1,0 +1,207 @@
+# Copyright (C) 2019 pushe.co
+# This file is distributed under the same license as the Pushe Webpush plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pushe Webpush 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/pushe-webpush\n"
+"POT-Creation-Date: 2021-06-27 16:26+0430\n"
+"PO-Revision-Date: 2021-06-27 16:32+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Domain: pushe-webpush\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: esc_html__;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: inc/pages/SettingsFieldsBuilder.php\n"
+"X-Poedit-SearchPath-2: inc/pages/AdminPages.php\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: inc/api/callbacks/BellOptionsCallback.php:19
+msgid "Bell settings can be configured here."
+msgstr "زنگوله پوشه در اینجا قابل تنظیم می باشد."
+
+#: inc/api/callbacks/ModalOptionsCallback.php:20
+msgid ""
+"These options are, available parameters of Pushe's webpush subscribe modal "
+"and All fields are optional, and modal would show default value for them."
+msgstr ""
+"فیلد های زیر آپشن های دیالوگ عضویت می باشند که وارد کردن مقدار برای تمامی "
+"آنها اختیاری می‌باشد. در صورت خالی گذاشتن آنها دیالوگ با مقادیر پیشفرض که در "
+"راهنما موجود می‌باشد نمایش داده می شوند."
+
+#: inc/api/callbacks/ModalOptionsCallback.php:21
+msgid "For more information you can check out the documentation at "
+msgstr ""
+"با مراجعه به آدرس مقابل می توانید راهنمای وب‌پوش و دیالوگ عضویت را مشاهده "
+"کنید "
+
+#: inc/api/callbacks/SettingsCallbacks.php:18
+msgid "* app id:"
+msgstr "app_id وب سایت"
+
+#: inc/api/callbacks/SettingsCallbacks.php:18
+msgid "You should get your app_id from"
+msgstr "می توانید app_id وب‌سایت خود را از"
+
+#: inc/api/callbacks/SettingsCallbacks.php:18
+msgid "Pushe.co's console"
+msgstr "کنسول پوشه دریافت کنید"
+
+#: inc/api/callbacks/SettingsCallbacks.php:19
+msgid ""
+"Only one of `Only show in these pages` or `Do not show in these pages` field "
+"would work."
+msgstr ""
+"از بین فیلدهای \"فقط در این صفحات نمایش داده شود\" و \"در این صفحات نمایش "
+"داده نشود\" فقط یکی را می‌توان استفاده کرد."
+
+#: inc/api/callbacks/SettingsCallbacks.php:20
+msgid "To figure out how to find your page numbers, checkout "
+msgstr "برای اطلاع از نحوه‌ی پیدا کردن شماره صفحات به مستندات رجوع کنید: "
+
+#: inc/api/callbacks/SettingsCallbacks.php:20
+msgid "our documentations"
+msgstr "راهنمای وردپرس"
+
+#: inc/pages/AdminPages.php:39
+msgid "Pushe Webpush"
+msgstr "پوشه وب‌پوش"
+
+#: inc/pages/AdminPages.php:51 inc/pages/AdminPages.php:116
+msgid "Bell Options"
+msgstr "زنگوله پوشه"
+
+#: inc/pages/AdminPages.php:60 inc/pages/AdminPages.php:104
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: inc/pages/AdminPages.php:78 inc/pages/AdminPages.php:110
+msgid "Modal Options"
+msgstr "دیالوگ عضویت"
+
+#: inc/pages/SettingsFieldsBuilder.php:28
+msgid "App Id"
+msgstr "app_id پوشه"
+
+#: inc/pages/SettingsFieldsBuilder.php:37
+msgid "Enable Webpush"
+msgstr "فعال سازی وب‌پوش"
+
+#: inc/pages/SettingsFieldsBuilder.php:47
+msgid "Do not show in these pages"
+msgstr "در این صفحات نمایش داده نشود"
+
+#: inc/pages/SettingsFieldsBuilder.php:56
+msgid "Only show in these pages"
+msgstr "فقط در این صفحات نمایش داده شود"
+
+#: inc/pages/SettingsFieldsBuilder.php:67
+msgid "Display Bell"
+msgstr "نمایش زنگوله"
+
+#: inc/pages/SettingsFieldsBuilder.php:77
+msgid "Bell Position"
+msgstr "مکان نمایش زنگوله"
+
+#: inc/pages/SettingsFieldsBuilder.php:87
+msgid "Visible In Desktop"
+msgstr "نمایش در دسکتاپ"
+
+#: inc/pages/SettingsFieldsBuilder.php:96
+msgid "Visible In Mobile"
+msgstr "نمایش در موبایل"
+
+#: inc/pages/SettingsFieldsBuilder.php:105
+msgid "Bell Color"
+msgstr "رنگ زنگوله"
+
+#: inc/pages/SettingsFieldsBuilder.php:114
+msgid "Bell Background Color"
+msgstr "رنگ پس زمینه زنگوله"
+
+#: inc/pages/SettingsFieldsBuilder.php:126
+msgid "Show Dialog"
+msgstr "نمایش دیالوگ عضویت"
+
+#: inc/pages/SettingsFieldsBuilder.php:136
+msgid "Title"
+msgstr "عنوان دیالوگ"
+
+#: inc/pages/SettingsFieldsBuilder.php:145
+msgid "Content"
+msgstr "متن دیالوگ"
+
+#: inc/pages/SettingsFieldsBuilder.php:154
+msgid "Accept Text"
+msgstr "متن دکمه تایید"
+
+#: inc/pages/SettingsFieldsBuilder.php:163
+msgid "Reject Text"
+msgstr "متن دکمه رد"
+
+#: inc/pages/SettingsFieldsBuilder.php:172
+msgid "Icon"
+msgstr "آیکون دیالوگ"
+
+#: inc/pages/SettingsFieldsBuilder.php:181
+msgid "Dialog Position"
+msgstr "موقعیت نمایش دیالوگ"
+
+#: inc/pages/SettingsFieldsBuilder.php:194
+msgid "Dialog Position In Mobile"
+msgstr "موقعیت نمایش دیالوگ در موبایل"
+
+#: inc/pages/SettingsFieldsBuilder.php:207
+msgid "Dialog Direction"
+msgstr "موقعیت نمایش دیالوگ"
+
+#: inc/pages/SettingsFieldsBuilder.php:220
+msgid "Modal Theme"
+msgstr "تم دیالوگ"
+
+#: inc/pages/SettingsFieldsBuilder.php:233
+msgid "Dialog Retry Rate"
+msgstr "زمان جلوگیری از تکرار نمایش"
+
+#: inc/pages/SettingsFieldsBuilder.php:242
+msgid "Delayed Modal Display"
+msgstr "فعال سازی تاخیر در نمایش دیالوگ"
+
+#: inc/pages/SettingsFieldsBuilder.php:252
+msgid "Delay Until Pages Surfed"
+msgstr "تاخیر در نمایش دیالوگ پس از مشاهده چند صفحه"
+
+#: inc/pages/SettingsFieldsBuilder.php:261
+msgid "Delay Until Time Spent"
+msgstr "تاخیر در نمایش دیالوگ پس از گذراندن چند ثانیه"
+
+#: inc/pages/SettingsFieldsBuilder.php:270
+msgid "Delay Until Page Scroll"
+msgstr "تاخیر در نمایش دیالوگ پس از اسکرول چند درصد از صفحه"
+
+#~ msgid "app id"
+#~ msgstr "app_id وب سایت"
+
+#~ msgid "icon"
+#~ msgstr "آیکون"
+
+#~ msgid "Official Pushe.co's webpush plugin for wordpress."
+#~ msgstr "پلاگین رسمی وب‌پوش پوشه برای وردپرس"
+
+#~ msgid "pushe.co"
+#~ msgstr "pushe.co"
+
+#~ msgid "https://pushe.co"
+#~ msgstr "https://pushe.co"
+
+#~ msgid "Pushe Modal Options"
+#~ msgstr "آپشن های دیالوگ عضویت"
+
+#~ msgid "Pushe webpush settings"
+#~ msgstr "تنظیمات وب‌پوش"
